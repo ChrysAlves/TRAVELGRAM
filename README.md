@@ -1,4 +1,3 @@
-Projeto Web feito 100% por mim. <br>
-Desafio proposto pela Rocketseat, para testar conhecimento do aluno. <br>
-Page onde é apresentado um portifolio de viagems, aonde nenhuma informação é real. <br>
-Tecnologias usadas:  HTML E CSS.
+Projeto Web feito a partir de uma aula <br>
+Guiado por um professor, afins de ensino<br>
+Page onde nenhuma informação é real.Tecnologias usadas: HTML E CSS.
